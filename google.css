@@ -1,0 +1,228 @@
+body
+{
+	font-family: Arial Narrow;
+	font-size: 120%;
+	color: #7a7a7a;
+}
+
+#all{
+	display: flex;
+	flex-flow: column nowrap;
+	align-items: center;
+	height: 600px;
+}
+
+#top{
+	display: flex;
+	justify-content: flex-end;
+}
+
+#gilc{
+	display: flex;
+	height: 50px;
+	width: 500px;
+	flex-direction: row;
+	justify-content: flex-end;
+}
+
+#gmail{
+	display: flex;
+	height: auto;
+	width: 50px;
+	align-items: center;
+}
+
+#images{
+	display: flex;
+	height: auto;
+	width: 90px;
+	align-items: center;
+	justify-content: center;
+}
+
+#logo{
+	display: flex;
+	height: auto;
+	width: 50px;
+	align-items: center;
+}
+
+#co{
+	display: flex;
+	height: auto;
+	width: 150px;
+	justify-content: center;
+	align-items: center;
+	background-color: #357ae8;
+	color: white;
+
+}
+
+#Google{
+	display: flex;
+	height: 250px;
+	flex-direction: row;
+}
+
+#img{
+	display: flex;
+	align-self: flex-end;	
+}
+
+#searchmicro{
+	
+	display: flex;
+	height: auto;
+	width: 650px;
+	border: 1px solid red;
+	flex-direction: row;
+	justify-content: flex-end;
+
+}
+
+#search{
+	display: flex;
+	height: 25px;
+	width: 620px;
+	border: 0.5px solid #7a7a7a;
+	border-radius: 3px; 
+	justify-content: flex-end;
+	align-self: center;
+}
+
+a:hover {
+	box-shadow 5px 5px 4px #7a7a7a; 
+}
+
+#micro{
+	display: flex;
+	align-items: center;
+}
+
+
+#rgluck{
+	display: flex;
+	height: 50px;
+	width: 320px;
+	flex-direction: row;
+	align-items: flex-end;
+	justify-content: space-between;
+}
+
+
+#rg{
+	display: flex;
+	height: 50px;
+	width: 150px;
+	justify-content: center;
+	align-items: center;
+	background-color: #f2f2f2;
+	border: 0.5px outset #E0E0E0;
+}
+
+#luck{
+	display: flex;
+	height: 50px;
+	width: 150px;
+	justify-content: center;
+	align-items: center;
+	background-color: #f2f2f2;
+	border: 0.5px outset #E0E0E0;
+}
+
+
+#gr {
+	display: flex;
+	height: 40px;
+	width: 100%;
+	border: 0.5px solid #E0E0E0;
+	flex-direction: row;
+	background-color: #f2f2f2;
+	font-size: 90%;
+}
+
+#fr{
+	display: flex;
+	height: 40px;
+	width: 100px;
+	align-items: center;
+	margin-left: 65px;
+}
+
+#gr2{
+	display: flex;
+	height: 60px;
+	width: all;
+	flex-direction: row;
+	background-color: #f2f2f2; 
+	flex-wrap: wrap-reverse;
+	justify-content: space-between;
+	align-items: center;
+	font-size: 80%;
+}
+
+#left{
+	display: flex;
+	height: 20px;
+	width: 600px;
+	align-items: center;
+}
+
+#pub{
+	display: flex;
+	width: 150px;
+	height: 20px;
+	margin-left: 65px;
+}
+#entreprise {
+	display: flex;
+	width: 170px;
+	height: 20px;
+}
+
+#propos{
+	display: flex;
+	width: 150px;
+	height: 20px;
+}
+
+#fonction{
+	display: flex;
+	width: 700px;
+	height: 20px;
+
+}
+
+#right{
+	display: flex;
+	width: 600px;
+	height: 20px;
+	justify-content: space-around;
+	align-items: center;
+
+}
+
+#infos{
+display: flex;
+	height: 20px;
+	width: 70px;
+}
+
+#conf{
+	display: flex;
+	width: 100px;
+	height: 20px;
+}
+
+#conditions{
+	display: flex;
+	width: 90px;
+	height: 20px;
+
+}
+#parametres{
+	display: flex;
+	width: 100px;
+	height: 20px;
+
+}
